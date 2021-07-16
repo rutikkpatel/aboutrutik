@@ -28,6 +28,7 @@ img {
 
 .profile-picture:hover{
     transform: rotate(360deg);
+    /*transform: scale(1.2);*/
     transition: all linear 1.2s;
 
 }
